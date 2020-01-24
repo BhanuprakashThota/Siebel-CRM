@@ -1,5 +1,5 @@
 # Siebel-CRM
-A short description of the Oracle Siebel CRM Tool
+A short description of the Oracle Siebel CRM Tool.
 
 ## What is CRM and Why?
 CRM is a Customer Relationship Management, it's primary goal is to increase customer loyalty and in turn improve business profitability.
