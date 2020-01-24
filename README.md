@@ -16,16 +16,22 @@ Below are the main important points, why we are using CRM tools :
 ## Siebel CRM Architecture :
 
 Siebel CRM is a three layered Architecture as below :
+
 ![Siebel Arch](https://docs.oracle.com/cd/E14004_01/books/ConfigApps/images/object_hierarchy.png)
 
 (Image copied from docs.oracle.com SiebelHub)
 > [User Interface Layer](https://docs.oracle.com/cd/B40099_02/books/ConfigApps/ConfigApps_OverviewArch5.html)
+
 > [Business Layer](https://docs.oracle.com/cd/B40099_02/books/ConfigApps/ConfigApps_OverviewArch6.html)
+
 > [Data Layer](https://docs.oracle.com/cd/B40099_02/books/ConfigApps/ConfigApps_OverviewArch7.html)
 
 As every application has three layer Architecture, Siebel itself conatins an three-layered architeucture.
+
 > User interface will be responsable of creating and designing an beautiful UI by using HTML,CSS files.
+
 > Business layer is where the whole logic will be handled by using the javascript language.
+
 > Data Layer handles the data of the customer's and store in the oracle database.
 
 Siebel CRM has a large domain over the Loyalty providing it to the customers.But slowly started losing its market now a days as many more CRM's like salesforce came into picture and all the data is stored in the cloud but not with the siebel still its using manual servers to store the code.
