@@ -41,4 +41,4 @@ RoadMap of Siebel CRM provided by Oracle till next decade
 ![Roadmap Siebel](https://lh5.googleusercontent.com/xLCiUUkCLuc3ACGh_We0q7UtAbcankOAUd0SszbO7YmcCMTBDJ8aXKiY1no2XgsjZhGy1oXy4PPhn7jKPNLF0o5UqvH2apNa_5Aee0CvQobecYiiNVQ9do1uhB8TV8r1zl8Q06g)
 (The latest Siebel CRM roadmap was presented at Oracle OpenWorld 2018 in San Francisco).
 
-#### Note: I have worked as a Siebel CRM developer for 2.5 years and extensive knowledge in developing the UI, coding in javascript and building the queries using SQL, feel free to reach my [linkedin](https://www.linkedin.com/in/bhanuprakashthota/) page for any help regarding the Siebel Development.
+#### Note: I have worked as a Siebel CRM developer for 2.5 years and having extensive knowledge in designing the UI, coding in javascript and building the queries using SQL, feel free to reach me through my [linkedin](https://www.linkedin.com/in/bhanuprakashthota/) page for any help regarding the Siebel Development.
