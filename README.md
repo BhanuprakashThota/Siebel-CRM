@@ -48,4 +48,9 @@ RoadMap of Siebel CRM provided by Oracle till next decade
 3. [User Interface Layer](https://www.hubspot.com/pricing/crm)
 4. [More..](https://www.capterra.com/sem-compare/customer-relationship-management-software?gclsrc=aw.ds&gclid=CjwKCAiAjrXxBRAPEiwAiM3DQskSeLb6GqmieIZI7iaDhacddk_RBf4DqtvyOHi1y330nfWSBeBcOBoCRYQQAvD_BwE)
 
+#### Below are the Top 10 free CRM Tools :
+
+![FreeCRM](https://blog-assets.freshworks.com/freshsales-crm/wp-content/uploads/2017/12/Top-10-Free-CRM-Tools-for-Businesses-768x496.jpg)
+([Image reference](https://www.freshworks.com/freshsales-crm/solutions/free-crm-software/g2-crowd-freshsales-10-best-free-crm-tools-blog/))
+
 #### Note: I have worked as a Siebel CRM developer for 2.5 years and having extensive knowledge in designing the UI, coding in javascript and building the queries using SQL, feel free to reach me through my [linkedin](https://www.linkedin.com/in/bhanuprakashthota/) page for any help regarding the Siebel Development.
