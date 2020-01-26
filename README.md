@@ -28,11 +28,11 @@ Siebel CRM is a three-layered Architecture as below :
 
 As every application has three-layer Architecture, Siebel itself contains a three-layered architecture.
 
-> User interface will be responsible for creating and designing a beautiful UI by using HTML, CSS files.
+- User interface will be responsible for creating and designing a beautiful UI by using HTML, CSS files.
 
-> Business layer is where the whole logic will be handled by using the javascript language.
+- Business layer is where the whole logic will be handled by using the javascript language.
 
-> Data Layer handles the data of the customer's and store in the oracle database.
+- Data Layer handles the data of the customer's and store in the oracle database.
 
 Siebel CRM has a large domain over the Loyalty providing it to the customers. But slowly started losing its market nowadays as many more CRM's like salesforce came into the picture and all the data is stored in the cloud but not with the Siebel still it's using manual servers to store the code.
 
@@ -40,5 +40,12 @@ RoadMap of Siebel CRM provided by Oracle till next decade
 
 ![Roadmap Siebel](https://lh5.googleusercontent.com/xLCiUUkCLuc3ACGh_We0q7UtAbcankOAUd0SszbO7YmcCMTBDJ8aXKiY1no2XgsjZhGy1oXy4PPhn7jKPNLF0o5UqvH2apNa_5Aee0CvQobecYiiNVQ9do1uhB8TV8r1zl8Q06g)
 (The latest Siebel CRM roadmap was presented at Oracle OpenWorld 2018 in San Francisco).
+
+### Below are the Latest CRM Tools that most Clients are prefeering to Use :
+
+1. [Salesforce](https://trailhead.salesforce.com/en/home)
+2. [Zoho](https://www.zoho.com/)
+3. [User Interface Layer](https://www.hubspot.com/pricing/crm)
+4. [More..](https://www.capterra.com/sem-compare/customer-relationship-management-software?gclsrc=aw.ds&gclid=CjwKCAiAjrXxBRAPEiwAiM3DQskSeLb6GqmieIZI7iaDhacddk_RBf4DqtvyOHi1y330nfWSBeBcOBoCRYQQAvD_BwE)
 
 #### Note: I have worked as a Siebel CRM developer for 2.5 years and having extensive knowledge in designing the UI, coding in javascript and building the queries using SQL, feel free to reach me through my [linkedin](https://www.linkedin.com/in/bhanuprakashthota/) page for any help regarding the Siebel Development.
