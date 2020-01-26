@@ -41,7 +41,7 @@ RoadMap of Siebel CRM provided by Oracle till next decade
 ![Roadmap Siebel](https://lh5.googleusercontent.com/xLCiUUkCLuc3ACGh_We0q7UtAbcankOAUd0SszbO7YmcCMTBDJ8aXKiY1no2XgsjZhGy1oXy4PPhn7jKPNLF0o5UqvH2apNa_5Aee0CvQobecYiiNVQ9do1uhB8TV8r1zl8Q06g)
 (The latest Siebel CRM roadmap was presented at Oracle OpenWorld 2018 in San Francisco).
 
-### Below are the Latest CRM Tools that most Clients are prefeering to Use :
+### Below are the CRM Tools that most Clients are prefeering to Use:
 
 1. [Salesforce](https://trailhead.salesforce.com/en/home)
 2. [Zoho](https://www.zoho.com/)
